@@ -170,5 +170,10 @@
   "قيمة المحفظة الجديدة":"New wallet value",
   "الغاء":"Cancel",
   "ادخل الرساله":"Enter the message",
-  "ارسال رساله واتساب الي":"Send a WhatsApp message to"
+  "ارسال رساله واتساب الي":"Send a WhatsApp message to",
+  "Are you sure you want to delete the account?":"Are you sure you want to delete the account?",
+  "You are about to delete your account.":"You are about to delete your account.",
+  "Confirm deletion":"Confirm deletion",
+  "الاسم الجديد":"The new name",
+  "ادخل الاسم الجديد":"Enter the new name"
 }
